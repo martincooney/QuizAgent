@@ -1,0 +1,69 @@
+Language model created by QuickLM on Mon Nov 19 05:20:15 EST 2018
+Copyright (c) 1996-2010 Carnegie Mellon University and Alexander I. Rudnicky
+
+The model is in standard ARPA format, designed by Doug Paul while he was at MITRE.
+
+The code that was used to produce this language model is available in Open Source.
+Please visit http://www.speech.cs.cmu.edu/tools/ for more information
+
+The (fixed) discount mass is 0.5. The backoffs are computed using the ratio method.
+This model based on a corpus of 8 sentences and 13 words
+
+\data\
+ngram 1=13
+ngram 2=20
+ngram 3=13
+
+\1-grams:
+-0.8603 </s> -0.3010
+-0.8603 <s> -0.2278
+-1.7634 ARE -0.2858
+-1.4624 BYE -0.2188
+-1.7634 COOL -0.2366
+-1.7634 GOODBYE -0.2366
+-1.7634 HANDSOME -0.2366
+-1.7634 HELLO -0.2366
+-1.7634 HOW -0.2935
+-1.7634 THANK -0.2858
+-1.7634 WELCOME -0.2366
+-1.4624 YOU -0.2366
+-1.7634 YOU'RE -0.2935
+
+\2-grams:
+-1.2041 <s> BYE -0.1761
+-1.2041 <s> COOL 0.0000
+-1.2041 <s> GOODBYE 0.0000
+-1.2041 <s> HANDSOME 0.0000
+-1.2041 <s> HELLO 0.0000
+-1.2041 <s> HOW 0.0000
+-1.2041 <s> THANK 0.0000
+-1.2041 <s> YOU'RE 0.0000
+-0.3010 ARE YOU 0.0000
+-0.6021 BYE </s> -0.3010
+-0.6021 BYE BYE -0.1761
+-0.3010 COOL </s> -0.3010
+-0.3010 GOODBYE </s> -0.3010
+-0.3010 HANDSOME </s> -0.3010
+-0.3010 HELLO </s> -0.3010
+-0.3010 HOW ARE 0.0000
+-0.3010 THANK YOU 0.0000
+-0.3010 WELCOME </s> -0.3010
+-0.3010 YOU </s> -0.3010
+-0.3010 YOU'RE WELCOME 0.0000
+
+\3-grams:
+-0.3010 <s> BYE BYE
+-0.3010 <s> COOL </s>
+-0.3010 <s> GOODBYE </s>
+-0.3010 <s> HANDSOME </s>
+-0.3010 <s> HELLO </s>
+-0.3010 <s> HOW ARE
+-0.3010 <s> THANK YOU
+-0.3010 <s> YOU'RE WELCOME
+-0.3010 ARE YOU </s>
+-0.3010 BYE BYE </s>
+-0.3010 HOW ARE YOU
+-0.3010 THANK YOU </s>
+-0.3010 YOU'RE WELCOME </s>
+
+\end\

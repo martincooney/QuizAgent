@@ -1,0 +1,7 @@
+Course1 2
+1_system_design,2018-08-29,2020-08-29,{sequence diagram;message sequence diagram},"Hint... the sequence of messages is important"
+2_computer_science,2018-08-29,2020-08-29,{DB},"Hint... two nibbles are a byte"
+Course2 2
+3_inference,2018-08-29,2020-08-29,{3},"Hint... this is something the algorithm considers to be a positive"
+4_math,2018-08-30,2020-08-29,{r},"Hint... take the partial derivatives"
+Course3 0
