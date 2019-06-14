@@ -1,6 +1,0 @@
-14/06/2019, 19:18:06; DEIS; 3_inference; ; False; 1.902977; ['3']
-14/06/2019, 19:21:19; Course1; 1_system_design; ; False; 1.801993; ['sequence diagram', 'message sequence diagram']
-14/06/2019, 19:21:24; Course1; 2_computer_science; ; False; 4.403598; ['DB']
-14/06/2019, 19:21:31; Course2; 3_inference; ; False; 1.800767; ['3']
-14/06/2019, 19:21:35; Course2; 4_math; ; False; 1.606314; ['r']
-14/06/2019, 19:21:40; Course1; 1_system_design; ; False; 11.184225; ['sequence diagram', 'message sequence diagram']
